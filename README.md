@@ -11,6 +11,17 @@
 * Palette: Image-to-Image Diffusion Models, SIGGRAPH 2022 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/221118_Palette_review.pdf">slide</a>][<a href="https://dl.acm.org/doi/abs/10.1145/3528233.3530757">paper</a>]  
 
 ## 2023
-* [<a href="">slide</a>][<a href="">paper</a>]  
+* Reconstruction by inpainting for visual anomaly detection, Pattern Recognition 2021 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/230108_RIAD_review.pdf">slide</a>][<a href="https://www.sciencedirect.com/science/article/pii/S0031320320305094?casa_token=bKzqmn8N5bgAAAAA:NuG3wQ5it2xPjAK8yAqMZSbaUNV_4IRZzsxAoOj8dSZEwWKJv6am4-y3Orb_Fp9OkJPhvePLLP4">paper</a>]
+* DRAEM-a discriminatively trained reconstruction embedding for surface anomaly detection, ICCV 2021 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/230519_DRAEM_review.pdf">slide</a>][<a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zavrtanik_DRAEM_-_A_Discriminatively_Trained_Reconstruction_Embedding_for_Surface_Anomaly_ICCV_2021_paper.html">paper</a>]
+* CVPR 2023 virtual attendance [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/230630_CVPR23_review.pdf">slide</a>]  
+* SQUID: Deep Feature In-Painting for Unsupervised Anomaly Detection, CVPR 2023 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/230714_SQUID_review.pdf">slide</a>][<a href="https://openaccess.thecvf.com/content/CVPR2023/html/Xiang_SQUID_Deep_Feature_In-Painting_for_Unsupervised_Anomaly_Detection_CVPR_2023_paper.html">paper</a>]
+* Emerging properties in self-supervised vision transformers, ICCV 2021 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/230725_DINO_review.pdf">slide</a>][<a href="https://openaccess.thecvf.com/content/ICCV2021/html/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper">paper</a>]
+* Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation, WACV 2024 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/231123_CheatingDepth_review.pdf">slide</a>][<a href="https://openaccess.thecvf.com/content/WACV2024/html/Zavrtanik_Cheating_Depth_Enhancing_3D_Surface_Anomaly_Detection_via_Depth_Simulation_WACV_2024_paper.html">paper</a>]
+* Learning loss for active learning, CVPR 2019 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/231226_ActiveLearning_review.pdf">slide</a>][<a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Yoo_Learning_Loss_for_Active_Learning_CVPR_2019_paper.html">paper</a>]  
 
 ## 2024
+* Continuous Memory Representation for Anomaly Detection [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/240315_GRAD_review.pdf">slide</a>][<a href="https://arxiv.org/abs/2402.18293">paper</a>]
+* Active token mixer, AAAI 2023 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/240325_ATM_review.pdf">slide</a>][<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25376">paper</a>]
+* AMI-Net: Adaptive Mask Inpainting Network for Industrial Anomaly Detection and Localization, T-ASE 2024 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/240401_AMINet_review.pdf">slide</a>][<a href="">paper</a>]
+* CVPR 2024 virtual attendance [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/240704_CVPR24_review.pdf">slide</a>]  
+* Generative Unlearning for Any Identity, CVPR 2024 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/240711_GUIDE_review.pdf">slide</a>][<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Seo_Generative_Unlearning_for_Any_Identity_CVPR_2024_paper.html">paper</a>]  
