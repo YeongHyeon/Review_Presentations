@@ -1,7 +1,7 @@
 # Archive of Review Presentations
 
 ## 2024
-* Continuous Memory Representation for Anomaly Detection [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/slides/240315_GRAD_review.pdf">slide</a>][<a href="https://arxiv.org/abs/2402.18293">paper</a>]
+* Continuous Memory Representation for Anomaly Detection, ECCV 2024 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/slides/240315_GRAD_review.pdf">slide</a>][<a href="https://arxiv.org/abs/2402.18293">paper</a>]
 * Active token mixer, AAAI 2023 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/slides/240325_ATM_review.pdf">slide</a>][<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25376">paper</a>]
 * AMI-Net: Adaptive Mask Inpainting Network for Industrial Anomaly Detection and Localization, T-ASE 2024 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/slides/240401_AMINet_review.pdf">slide</a>][<a href="">paper</a>]
 * CVPR 2024 virtual attendance [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/slides/240704_CVPR24_review.pdf">slide</a>]  
