@@ -6,6 +6,7 @@
 * AMI-Net: Adaptive Mask Inpainting Network for Industrial Anomaly Detection and Localization, T-ASE 2024 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/slides/240401_AMINet_review.pdf">slide</a>][<a href="">paper</a>]
 * CVPR 2024 virtual attendance [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/slides/240704_CVPR24_review.pdf">slide</a>]  
 * Generative Unlearning for Any Identity, CVPR 2024 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/slides/240711_GUIDE_review.pdf">slide</a>][<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Seo_Generative_Unlearning_for_Any_Identity_CVPR_2024_paper.html">paper</a>]  
+* EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies, WACV 2024 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/slides/240921_EfficientAD_review.pdf">slide</a>][<a href="https://openaccess.thecvf.com/content/WACV2024/html/Batzner_EfficientAD_Accurate_Visual_Anomaly_Detection_at_Millisecond-Level_Latencies_WACV_2024_paper.html">paper</a>]  
 
 ## 2023
 * Reconstruction by inpainting for visual anomaly detection, Pattern Recognition 2021 [<a href="https://github.com/YeongHyeon/Review_Presentations/blob/main/slides/230108_RIAD_review.pdf">slide</a>][<a href="https://www.sciencedirect.com/science/article/pii/S0031320320305094?casa_token=bKzqmn8N5bgAAAAA:NuG3wQ5it2xPjAK8yAqMZSbaUNV_4IRZzsxAoOj8dSZEwWKJv6am4-y3Orb_Fp9OkJPhvePLLP4">paper</a>]
